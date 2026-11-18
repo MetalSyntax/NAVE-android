@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Propuesta 9 «Velocímetro»: tablero amarillo con marcas; la N blanca y su diagonal roja hace de aguja. Escala 0.74 = zona segura. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <group android:pivotX="54" android:pivotY="54" android:scaleX="0.74" android:scaleY="0.74">
+        <path android:strokeColor="#E9C349" android:strokeWidth="5" android:strokeLineCap="round" android:pathData="M26,66A28,28 0,1 1,82,66" />
+        <path android:strokeColor="#E9C349" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M30,48l5,2M54,30v6M78,48l-5,2" />
+        <path android:strokeColor="#F2F2F2" android:strokeWidth="7" android:strokeLineCap="round" android:pathData="M42,72V46M66,72V46" />
+        <path android:strokeColor="#FF5540" android:strokeWidth="6" android:strokeLineCap="round" android:pathData="M42,46L68,76" />
+    </group>
+</vector>

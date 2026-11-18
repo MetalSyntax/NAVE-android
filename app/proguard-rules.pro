@@ -1,0 +1,2 @@
+-keep class com.nave.moto.data.local.** { *; }
+-keepattributes *Annotation*, Signature
